@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "536653373100",
+    "project_id": "cookit-87f2b",
+    "storage_bucket": "cookit-87f2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536653373100:android:f7f7c650f71b6412de4909",
+        "android_client_info": {
+          "package_name": "com.fara.cookit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536653373100-ojct5mle5hfnbos1hoh6jkf59lm49i5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fara.cookit",
+            "certificate_hash": "2e2227ea84b2e2a5d536034f57ff5900ab315aa1"
+          }
+        },
+        {
+          "client_id": "536653373100-utcc9dp2mh9v8a4bopehsj0a45vh28kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqMWtwlJGAYe8Q0rJ8BxihiWWxr3aK7Q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536653373100-utcc9dp2mh9v8a4bopehsj0a45vh28kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

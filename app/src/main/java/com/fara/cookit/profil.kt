@@ -36,6 +36,14 @@ class profil : AppCompatActivity() {
                     savemakanan::class.java)
             startActivity(intentsave)
         }
+        val imageLogout = findViewById<ImageView>(R.id.imageView49)
+// Set OnClickListener untuk berpindah ke Minuman Screen
+        imageLogout.setOnClickListener {
+            val intentLogout = Intent(
+                this@profil,
+                SignInActivity::class.java)
+            startActivity(intentLogout)
+        }
 
 
         }
